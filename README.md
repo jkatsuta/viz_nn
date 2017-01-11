@@ -1,6 +1,8 @@
 # viz_nn
 
-可視化がテーマのブログのコード集です。
+可視化がテーマのブログのためのコード集です。
+ブログURL:
+http://recruit.gmo.jp/engineer/jisedai/blog/deep-learning-keras/
 
 - viz_cnn: cnnの可視化
 - viz_mlp_check: mlpの重みの可視化（簡易データ）
